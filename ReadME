@@ -1,0 +1,11 @@
+# COMPILATION : 
+
+make build
+
+# EXECUTION :
+
+make run
+
+# SUPPRESSION EXECUTABLE
+
+make clean
